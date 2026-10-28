@@ -1,0 +1,15 @@
+# Cheia API și secretele (cel mai important rând)
+.env
+
+# Mediul virtual Python
+.venv/
+venv/
+
+# Fișiere generate automat de Python
+__pycache__/
+*.pyc
+
+# Fișiere temporare
+uploads/
+*.log
+.DS_Store
